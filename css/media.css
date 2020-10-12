@@ -8,9 +8,9 @@
 
 
 
-@media(max-width: 768px){
+@media(max-width: 600px){
     .container{
-        max-width: 500px;
+        max-width: 390px;
     }
     header{
         width: 100%;
