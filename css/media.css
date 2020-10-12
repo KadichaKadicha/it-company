@@ -74,12 +74,16 @@
     .section-desc {
         font-size: 14px;}
     .standart-title {
-        font-size: 24px;}
+        font-size: 24px;
+        text-align: center;
+    }
     .standart-desc {
         font-weight: normal;
         font-size: 14px;}
     .standart-link {
-
+        text-align: center;
+        display: block;
+        padding-bottom: 14px;
         font-size: 12px;
     }
 
@@ -117,7 +121,7 @@
         margin-bottom: 33px;
     }
     .video-item-image {
-        padding-bottom: 56px;
+        padding-bottom: 26px;
     }
     .video-item-btn{
         font-size: 10px;
@@ -125,13 +129,15 @@
     .video-item-btn span {
         padding-left: 8px;
     }
+    .video{
+        padding-bottom: 50px;
+    }
     .video-play{
         padding: 0px 16px 0px 2px;
     }
     .video-play svg{
         width: 32px;
     }
-
     .video-desc{
 padding: 30px 0 100px;
     }
